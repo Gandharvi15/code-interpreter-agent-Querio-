@@ -1,0 +1,21 @@
+name,department,salary,age,years_experience,performance_score
+Alice Johnson,Engineering,95000,29,5,4.2
+Bob Smith,Marketing,62000,34,8,3.8
+Carol White,Engineering,105000,38,12,4.7
+David Lee,HR,54000,27,3,3.5
+Eva Martinez,Engineering,88000,31,6,4.1
+Frank Brown,Sales,71000,45,18,3.9
+Grace Kim,Marketing,67000,29,4,4.3
+Henry Davis,HR,58000,41,14,3.6
+Iris Wilson,Sales,79000,36,9,4.0
+Jake Taylor,Engineering,112000,44,19,4.8
+Karen Moore,Marketing,64000,32,6,3.7
+Liam Jackson,Sales,75000,28,3,4.4
+Mia Thomas,HR,51000,25,1,3.3
+Noah White,Engineering,99000,35,10,4.5
+Olivia Harris,Sales,83000,39,13,4.1
+Paul Clark,Marketing,70000,47,22,3.8
+Quinn Lewis,Engineering,91000,33,7,4.3
+Rachel Walker,HR,56000,30,5,3.4
+Sam Hall,Sales,77000,42,16,4.0
+Tina Young,Engineering,108000,40,15,4.6
