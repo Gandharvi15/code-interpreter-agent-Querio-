@@ -41,8 +41,15 @@ including charts and AI-generated insights.
    streamlit run app.py --server.port 8080
 
 ## Screenshots
-(add screenshots here)
 
+### Home
+![Home](screenshots/home.png)
+
+### Text Answer
+![Text Answer](screenshots/text-answer.png)
+
+### Chart with AI Insight
+![Chart Insight](screenshots/chart-insight.png)
 ## Safety
 AI-generated code runs through a safety filter (safety.py) that blocks 
 dangerous operations like file system access, imports of os/sys/subprocess, etc.
