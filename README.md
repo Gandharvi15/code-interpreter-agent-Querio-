@@ -23,7 +23,7 @@ including charts and AI-generated insights.
 ## Setup
 
 1. Clone the repo
-   git clone https://github.com/your-username/querio.git
+   git clone https://github.com/Gandharvi15/code-interpreter-agent-Querio-
    cd querio
 
 2. Create a virtual environment
@@ -48,10 +48,10 @@ including charts and AI-generated insights.
 ![Home](screenshot/home.png)
 
 ### Text Answer
-![Text Answer](screenshot/text answer result.png)
+![Text Answer](screenshot/text_answer_result.png)
 
 ### Chart with AI Insight
-![Chart Insight](screenshot/chart result.png)
+![Chart Insight](screenshot/chart_result.png)
 ## Safety
 AI-generated code runs through a safety filter (safety.py) that blocks 
 dangerous operations like file system access, imports of os/sys/subprocess, etc.
